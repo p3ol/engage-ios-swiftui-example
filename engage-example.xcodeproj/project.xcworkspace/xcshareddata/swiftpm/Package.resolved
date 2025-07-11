@@ -1,0 +1,15 @@
+{
+  "originHash" : "ecaeeaa2bde169c23cc8336c9b024aef90764c9337ffa3cac7342a15fdfa1274",
+  "pins" : [
+    {
+      "identity" : "engage-package-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/p3ol/engage-package-ios.git",
+      "state" : {
+        "revision" : "122cbd8d222c7a02e0984dc7edd398fcbc6a1e2d",
+        "version" : "1.3.2"
+      }
+    }
+  ],
+  "version" : 3
+}
